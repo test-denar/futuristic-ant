@@ -5,7 +5,8 @@ sections:
     title: 'Hi, I’m Alyvia. Edited by owner!!!'
     subtitle: >-
       I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      and digital advertisements for you, at an affordable price. (Edited by
+      support user)
     actions:
       - label: Contact Me
         url: /contact
