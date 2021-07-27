@@ -8,7 +8,7 @@ sections:
       and digital advertisements for you, at an affordable price. (Edited by
       support user)
     actions:
-      - label: Contact Me
+      - label: Subscribe
         url: /contact
         style: primary
     image: /images/feature-3.svg
